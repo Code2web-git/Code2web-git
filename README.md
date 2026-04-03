@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Code2web-git/Code2web-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +31,12 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me
+<!--
 - 🎓 **Web Development** শিখছি, লক্ষ্য একজন **Frontend Master** হওয়া।
 - 🚀 বর্তমানে **React JS** এবং **Vite** নিয়ে কাজ করছি।
 - 🎥 আমার ইউটিউব চ্যানেল **code2web**-এ প্রোগ্রামিং টিউটোরিয়াল আপলোড করি।
 - 🎨 UI/UX ডিজাইনের জন্য **Dribbble** ও **Behance** ফলো করি।
+-->
 
 ### 🛠️ Tech Stack
 <p>
