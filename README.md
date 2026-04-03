@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Code2web-git&color=blueviolet" alt="Profile Views" />
 </div>
